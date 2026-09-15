@@ -1,0 +1,18 @@
+{
+  "version": "1.2.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.2.0/SimpleInputs-1.2.0-win64.zip",
+  "sha256": "6703896CB4CA046B94863A0F27514FD9FEBF56A920810490715BF93E77712099",
+  "added": [
+    "Weather widget: track and air temperature, surface condition, and the game's own rain forecast with a countdown to each change",
+    "Blue flag, showing the class of the car coming to lap you",
+    "Colour themes for the app window",
+    "Background styles for the Inputs widget, and its own opacity for the graph",
+    "Updates page: check, download and install without leaving the app"
+  ],
+  "fixed": [
+    "Damage now reads real suspension and aero figures from the game instead of inferring them from wheel geometry",
+    "Light body damage was treated as nothing, so a dented bumper showed as undamaged",
+    "Trace lines went thin on fast pedal movements, because a near-vertical stroke was clipped at the edge of the graph",
+    "Delta Bar background follows the widget's shape instead of boxing it"
+  ]
+}
