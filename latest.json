@@ -1,18 +1,26 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.2.0/SimpleInputs-1.2.0-win64.zip",
-  "sha256": "6703896CB4CA046B94863A0F27514FD9FEBF56A920810490715BF93E77712099",
+  "version": "1.3.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.3.0/SimpleInputs-1.3.0-win64.zip",
+  "sha256": "C064A36CC41247BD423B65FCA6464A45ECD7CB5FD09273D4564CC361DF8B38F8",
   "added": [
-    "Weather widget: track and air temperature, surface condition, and the game's own rain forecast with a countdown to each change",
-    "Blue flag, showing the class of the car coming to lap you",
-    "Colour themes for the app window",
-    "Background styles for the Inputs widget, and its own opacity for the graph",
-    "Updates page: check, download and install without leaving the app"
+    "Dashboard: a card for every session you drive, recorded while the app runs, with the circuit, the car, your laps and times, your place and the gap to the session best",
+    "Sector Time widget: purple for a session best sector, green for your own best, yellow for the rest, with an option to show the sectors as running totals",
+    "Cuts widget: track limit points spent out of those allowed, and an infinity sign where nothing is policed",
+    "Boxes (P91 Logo) style for the RPM Panel, every readout in a coloured frame of its own",
+    "P91 Team theme, with the team mark in the title bar and a photograph under the window",
+    "Black to Green background for the Inputs widget and the RPM Panel",
+    "Presets can be exported to a file and imported back, and an imported preset never overwrites your own",
+    "Disable all and Enable all, for every widget at once",
+    "A new application icon"
   ],
   "fixed": [
-    "Damage now reads real suspension and aero figures from the game instead of inferring them from wheel geometry",
-    "Light body damage was treated as nothing, so a dented bumper showed as undamaged",
-    "Trace lines went thin on fast pedal movements, because a near-vertical stroke was clipped at the edge of the graph",
-    "Delta Bar background follows the widget's shape instead of boxing it"
+    "A session is now finished when you leave it for the menus, not only when the game closes",
+    "The app went on saying Connected after the game had exited",
+    "An out lap ran a clock and showed INVALID as though it were a timed lap",
+    "The lap time after joining a session showed the age of the session instead of the lap",
+    "Sectors 2 and 3 were measured against themselves, and the best sectors started every session blank",
+    "A driver who left the session took their sector times with them",
+    "Aero damage was read on the wrong scale, so a hit to the nose lit the rear wing",
+    "Disable all could not see Sector Time or Cuts, and Enable all restored the previous set instead of every widget"
   ]
 }
