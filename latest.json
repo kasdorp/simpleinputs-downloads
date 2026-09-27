@@ -1,26 +1,22 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.3.0/SimpleInputs-1.3.0-win64.zip",
-  "sha256": "C064A36CC41247BD423B65FCA6464A45ECD7CB5FD09273D4564CC361DF8B38F8",
+  "version": "1.4.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.4.0/SimpleInputs-1.4.0-win64.zip",
+  "sha256": "B5E0E6C7DBBA0A3329916FC6F0FD809225D994218B2665CC27AF2AD097BD4043",
   "added": [
-    "Dashboard: a card for every session you drive, recorded while the app runs, with the circuit, the car, your laps and times, your place and the gap to the session best",
-    "Sector Time widget: purple for a session best sector, green for your own best, yellow for the rest, with an option to show the sectors as running totals",
-    "Cuts widget: track limit points spent out of those allowed, and an infinity sign where nothing is policed",
-    "Boxes (P91 Logo) style for the RPM Panel, every readout in a coloured frame of its own",
-    "P91 Team theme, with the team mark in the title bar and a photograph under the window",
-    "Black to Green background for the Inputs widget and the RPM Panel",
-    "Presets can be exported to a file and imported back, and an imported preset never overwrites your own",
-    "Disable all and Enable all, for every widget at once",
-    "A new application icon"
+    "Standings widget: a timing screen class by class, with gaps, last and best laps, pit stops, places gained and every car's energy, in any font and weight",
+    "Tyres widget: each tread in three lanes coloured by temperature as the game's HUD does, with wear, pressure, brakes and the compound of every tyre; Classic and Compact layouts",
+    "Lap analysis: every lap recorded; open a session to compare against your best corner by corner, with speed, delta, throttle and brake, a replay on the track map, and lap export and import",
+    "Dashboard sums up your sessions: the car and circuit you drive most, and where you finish",
+    "Damage widget redrawn, with three styles: Outline, Blocks and Line",
+    "Settings rebuilt: a live preview of your layout, on/off switches and far less text",
+    "Space theme",
+    "Tiles style for the RPM Panel",
+    "Track Map takes every circuit's shape straight from the game, before you drive it",
+    "Telemetry read on every game frame, 100 times a second instead of 60, with adjustable trace smoothing for Inputs",
+    "No background option for the Inputs widget"
   ],
   "fixed": [
-    "A session is now finished when you leave it for the menus, not only when the game closes",
-    "The app went on saying Connected after the game had exited",
-    "An out lap ran a clock and showed INVALID as though it were a timed lap",
-    "The lap time after joining a session showed the age of the session instead of the lap",
-    "Sectors 2 and 3 were measured against themselves, and the best sectors started every session blank",
-    "A driver who left the session took their sector times with them",
-    "Aero damage was read on the wrong scale, so a hit to the nose lit the rear wing",
-    "Disable all could not see Sector Time or Cuts, and Enable all restored the previous set instead of every widget"
+    "Damage lights AERO when the rear wing comes off, as the game does",
+    "A maximised window no longer runs under the taskbar, so the overlay list scrolls to its end"
   ]
 }
