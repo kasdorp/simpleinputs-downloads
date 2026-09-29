@@ -1,22 +1,16 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.4.0/SimpleInputs-1.4.0-win64.zip",
-  "sha256": "B5E0E6C7DBBA0A3329916FC6F0FD809225D994218B2665CC27AF2AD097BD4043",
+  "version": "1.5.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.5.0/SimpleInputs-1.5.0-win64.zip",
+  "sha256": "7EC26E1DA473CD3C3B0CBC309B5EC834C1421A3F505EFAE31264E255727204DB",
   "added": [
-    "Standings widget: a timing screen class by class, with gaps, last and best laps, pit stops, places gained and every car's energy, in any font and weight",
-    "Tyres widget: each tread in three lanes coloured by temperature as the game's HUD does, with wear, pressure, brakes and the compound of every tyre; Classic and Compact layouts",
-    "Lap analysis: every lap recorded; open a session to compare against your best corner by corner, with speed, delta, throttle and brake, a replay on the track map, and lap export and import",
-    "Dashboard sums up your sessions: the car and circuit you drive most, and where you finish",
-    "Damage widget redrawn, with three styles: Outline, Blocks and Line",
-    "Settings rebuilt: a live preview of your layout, on/off switches and far less text",
-    "Space theme",
-    "Tiles style for the RPM Panel",
-    "Track Map takes every circuit's shape straight from the game, before you drive it",
-    "Telemetry read on every game frame, 100 times a second instead of 60, with adjustable trace smoothing for Inputs",
-    "No background option for the Inputs widget"
+    "Standings: a Table style, the dense broadcast timing table, with the session, time of day, track grip and temperatures across the top and a band per car",
+    "Standings: drivers' country flags and car makers' logos in both styles; online, each player's own country",
+    "Standings: 5 AVG, the average of the last five clean laps, and AVG NRG, the energy a lap costs (fuel for LMP2)",
+    "Standings: every option now works in both the Timing and the Table style",
+    "Weather names the dry track's grip, from Green to Saturated, as the game's Session panel does",
+    "Lock all / Unlock all beside Disable all"
   ],
   "fixed": [
-    "Damage lights AERO when the rear wing comes off, as the game does",
-    "A maximised window no longer runs under the taskbar, so the overlay list scrolls to its end"
+    "Weather loses a Text size that did the same as Widget scale, and its track line sits even"
   ]
 }
