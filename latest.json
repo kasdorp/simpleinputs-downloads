@@ -1,16 +1,15 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.5.0/SimpleInputs-1.5.0-win64.zip",
-  "sha256": "7EC26E1DA473CD3C3B0CBC309B5EC834C1421A3F505EFAE31264E255727204DB",
+  "version": "1.5.1",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.5.1/SimpleInputs-1.5.1-win64.zip",
+  "sha256": "DEC69EB35D1524E3FDAD89D82969DAEF504A38EF5F53B3F45C1102867C10EFE4",
   "added": [
-    "Standings: a Table style, the dense broadcast timing table, with the session, time of day, track grip and temperatures across the top and a band per car",
-    "Standings: drivers' country flags and car makers' logos in both styles; online, each player's own country",
-    "Standings: 5 AVG, the average of the last five clean laps, and AVG NRG, the energy a lap costs (fuel for LMP2)",
-    "Standings: every option now works in both the Timing and the Table style",
-    "Weather names the dry track's grip, from Green to Saturated, as the game's Session panel does",
-    "Lock all / Unlock all beside Disable all"
+    "Relatives widget: the cars around you on track, ahead and behind, with the time to each on the road; red for a car a lap up on you, blue for one you have lapped; in the Standings' two styles",
+    "Relatives columns: distance, 5- and 10-lap averages, lap delta to your last lap, last pit stop (lap and time in the lane), current and last stint",
+    "Background choice for Standings and Relatives: Solid, Black, or Black to Green",
+    "Table style: a compact top bar with class, session, time, lap, time of day, temperatures and grip, sitting right on the table",
+    "OUT and blue-flag marks"
   ],
   "fixed": [
-    "Weather loses a Text size that did the same as Widget scale, and its track line sits even"
+    "Car maker logos are sharp and the same visual size; Chevrolet added"
   ]
 }
