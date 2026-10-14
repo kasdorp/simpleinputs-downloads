@@ -1,15 +1,19 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.5.1/SimpleInputs-1.5.1-win64.zip",
-  "sha256": "DEC69EB35D1524E3FDAD89D82969DAEF504A38EF5F53B3F45C1102867C10EFE4",
+  "version": "1.6.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.6.0/SimpleInputs-1.6.0-win64.zip",
+  "sha256": "65B4D223BE604D3290D08EDFC796DBA956AC5DC1C2AC9521C42120B9D243A761",
   "added": [
-    "Relatives widget: the cars around you on track, ahead and behind, with the time to each on the road; red for a car a lap up on you, blue for one you have lapped; in the Standings' two styles",
-    "Relatives columns: distance, 5- and 10-lap averages, lap delta to your last lap, last pit stop (lap and time in the lane), current and last stint",
-    "Background choice for Standings and Relatives: Solid, Black, or Black to Green",
-    "Table style: a compact top bar with class, session, time, lap, time of day, temperatures and grip, sitting right on the table",
-    "OUT and blue-flag marks"
+    "iRacing support: pick the game in the title bar; the widgets show only what iRacing gives, Cuts become Incidents",
+    "Standings and Relatives in iRacing: iRating and its projected change, licence, class strength of field, the sim's class colours and flags; the qualifying grid before the start",
+    "Lock Up widget (LMU): dots that fill as a wheel slides under braking, in one strip, by axle, by wheel or the car from above",
+    "Lap analysis Advanced layout: tyres at the cursor, g-g diagram, and charts of tyre temperature, pressure, brakes, wear, wheel slip, g-force, revs, steering, ride height, ABS and TC, compared side by side or overlaid",
+    "RPM Panel Dash style, copied from a team's dash, with your own logo and outline colour",
+    "Standings: your place on white; places gained and lost flash",
+    "Connection status in the title bar, the widget preview above its settings in a narrow window, each theme with its own pictures"
   ],
   "fixed": [
-    "Car maker logos are sharp and the same visual size; Chevrolet added"
+    "Delta runs against your best counted lap, not the last one",
+    "Settings pages no longer clipped at the right edge",
+    "Car names no longer doubled on the session cards"
   ]
 }

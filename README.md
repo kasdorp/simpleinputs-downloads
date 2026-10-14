@@ -1,6 +1,6 @@
 # SimpleInputs — downloads
 
-Download point for **SimpleInputs**, a telemetry overlay for Le Mans Ultimate.
+Download point for **SimpleInputs**, a telemetry overlay for Le Mans Ultimate and iRacing.
 
 Grab the latest build from [Releases](../../releases). `latest.json` is what the
 app itself reads to find out whether a newer version exists.
