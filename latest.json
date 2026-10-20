@@ -1,19 +1,9 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.7.0/SimpleInputs-1.7.0-win64.zip",
-  "sha256": "A2B7C1AD85988E15F43BB95DB40EDACDFFBDC9BB4FFE14EBC0828AD748A6FBB9",
-  "added": [
-    "Radar widget: the cars around you from above, a side lights up when someone is alongside",
-    "Fuel widget: fuel and energy per lap, laps left, what is left at the flag and how much to add at the stop",
-    "Russian interface: Settings, Language",
-    "Widgets use almost half the CPU; Smooth, Balanced and Low resource modes in Settings",
-    "Start with Windows, straight to the tray",
-    "20/40/60/80% grid lines on the pedal graph"
-  ],
+  "version": "1.7.1",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.7.1/SimpleInputs-1.7.1-win64.zip",
+  "sha256": "3C7577662A0B47494E3D433350D0EB8C463147BF0A17C8E6EDC6D934665A2C15",
+  "added": [],
   "fixed": [
-    "The yellow flag no longer sticks because of retired or abandoned cars",
-    "Widgets hide at the game's menus",
-    "Car numbers on the track map are no longer cut off at the edge",
-    "A second copy of the app no longer starts on top of the first"
+    "Standings: gaps for classes a lap or more behind the overall leader no longer show as zeros"
   ]
 }
