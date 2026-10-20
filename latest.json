@@ -3,14 +3,15 @@
   "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.0/SimpleInputs-1.9.0-win64.zip",
   "sha256": "B02385E7AABDFD6F7008FEB061423820BC9B3AFDACD12B219CD52DDD94A82A02",
   "added": [
-    "New lap analysis in the Garage 61 style: every channel one under another with one cursor showing both laps' values, the map in the middle and the corners as a bar under the charts",
-    "Lap map: cars instead of dots, a start line with direction arrows, line thickness (LINE -/+), zoom on the plain wheel",
-    "Import .ibt: iRacing sessions driven with the app closed, straight from the sim's telemetry files",
-    "New session cards: coloured by session type, a glowing circuit outline, the place on a medal plate and the whole stint as bars"
+    "New lap analysis: all charts stacked, one cursor across them",
+    "Corners are now a bar under the charts",
+    "Cars on the map instead of dots, start line with arrows",
+    "Map zoom with the mouse wheel, adjustable line thickness",
+    "New session cards",
+    "iRacing: import sessions from .ibt files"
   ],
   "fixed": [
-    "Setups: Silverstone WEC and National go into the shared Silverstone folder, a setup's kind is read from its file name when untagged, and there are filters by kind and author",
-    "The compared lap no longer resets to Nothing when a second session is opened",
-    "Old iRacing sessions drew the circuit and the corners in different places on the map"
+    "Compared lap reset when opening a second session",
+    "Map of old iRacing sessions was drawn wrong"
   ]
 }
