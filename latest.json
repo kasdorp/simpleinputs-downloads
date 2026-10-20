@@ -1,10 +1,16 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.8.0/SimpleInputs-1.8.0-win64.zip",
-  "sha256": "AA48AAABF95D1EB7DEDBE59F4B034EC1CFA2AB17D34C3D1AD4AFC726D59A99C9",
+  "version": "1.9.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.0/SimpleInputs-1.9.0-win64.zip",
+  "sha256": "B02385E7AABDFD6F7008FEB061423820BC9B3AFDACD12B219CD52DDD94A82A02",
   "added": [
-    "Setups tab: the whole FreeLMUsetups bot library in the app; pick the car and circuit, press Install, and the setup goes straight into the game's folder for that circuit",
-    "\"This session\" picks the car and circuit you are driving; new setups from the bot show up on their own"
+    "New lap analysis in the Garage 61 style: every channel one under another with one cursor showing both laps' values, the map in the middle and the corners as a bar under the charts",
+    "Lap map: cars instead of dots, a start line with direction arrows, line thickness (LINE -/+), zoom on the plain wheel",
+    "Import .ibt: iRacing sessions driven with the app closed, straight from the sim's telemetry files",
+    "New session cards: coloured by session type, a glowing circuit outline, the place on a medal plate and the whole stint as bars"
   ],
-  "fixed": []
+  "fixed": [
+    "Setups: Silverstone WEC and National go into the shared Silverstone folder, a setup's kind is read from its file name when untagged, and there are filters by kind and author",
+    "The compared lap no longer resets to Nothing when a second session is opened",
+    "Old iRacing sessions drew the circuit and the corners in different places on the map"
+  ]
 }
