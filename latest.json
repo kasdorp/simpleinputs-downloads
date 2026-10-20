@@ -1,9 +1,10 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.7.1/SimpleInputs-1.7.1-win64.zip",
-  "sha256": "3C7577662A0B47494E3D433350D0EB8C463147BF0A17C8E6EDC6D934665A2C15",
-  "added": [],
-  "fixed": [
-    "Standings: gaps for classes a lap or more behind the overall leader no longer show as zeros"
-  ]
+  "version": "1.8.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.8.0/SimpleInputs-1.8.0-win64.zip",
+  "sha256": "AA48AAABF95D1EB7DEDBE59F4B034EC1CFA2AB17D34C3D1AD4AFC726D59A99C9",
+  "added": [
+    "Setups tab: the whole FreeLMUsetups bot library in the app; pick the car and circuit, press Install, and the setup goes straight into the game's folder for that circuit",
+    "\"This session\" picks the car and circuit you are driving; new setups from the bot show up on their own"
+  ],
+  "fixed": []
 }
