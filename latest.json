@@ -1,17 +1,11 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.0/SimpleInputs-1.9.0-win64.zip",
-  "sha256": "B02385E7AABDFD6F7008FEB061423820BC9B3AFDACD12B219CD52DDD94A82A02",
-  "added": [
-    "New lap analysis: all charts stacked, one cursor across them",
-    "Corners are now a bar under the charts",
-    "Cars on the map instead of dots, start line with arrows",
-    "Map zoom with the mouse wheel, adjustable line thickness",
-    "New session cards",
-    "iRacing: import sessions from .ibt files"
-  ],
+  "version": "1.9.1",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.1/SimpleInputs-1.9.1-win64.zip",
+  "sha256": "44ECDD3BF8B2A51436B32265796E526E8F318D787915FD56D644F0F6DC09B5C1",
+  "added": [],
   "fixed": [
-    "Compared lap reset when opening a second session",
-    "Map of old iRacing sessions was drawn wrong"
+    "Lap analysis charts are drawn exactly as recorded: sharp inputs and pedal peaks are no longer smoothed out",
+    "The gear chart no longer drops to N on every shift",
+    "The steering scale stops at full lock"
   ]
 }
