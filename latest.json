@@ -1,9 +1,11 @@
 {
-  "version": "1.9.3",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.3/SimpleInputs-1.9.3-win64.zip",
-  "sha256": "6AF30D88EC89A5CE31F633CC9E47CBF15F3642050875878FCFBC0BDE712EAEED",
+  "version": "1.9.4",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.4/SimpleInputs-1.9.4-win64.zip",
+  "sha256": "32112BD36FB869389B2A15118AB58E4DD568BE92E45DFCFC55F87088FD3A2EB4",
   "added": [
-    "The track map can be made much larger: up to 900×600 instead of 360×240"
+    "The map can be turned any way you like"
   ],
-  "fixed": []
+  "fixed": [
+    "The track map size is now one slider: the map grows keeping its shape and no longer slides to the right"
+  ]
 }
