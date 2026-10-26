@@ -1,9 +1,9 @@
 {
-  "version": "1.9.2",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.2/SimpleInputs-1.9.2-win64.zip",
-  "sha256": "98AC4441F1EAD9CCCC92BA3203EA504E616462BBF17344F89F8C58979EF3A84D",
-  "added": [],
-  "fixed": [
-    "In a timed race the estimated laps and the fuel to add now show before the start (Standings, RPM Panel, Fuel); it needs at least one clean lap in this car at this track in practice or qualifying"
-  ]
+  "version": "1.9.3",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.3/SimpleInputs-1.9.3-win64.zip",
+  "sha256": "6AF30D88EC89A5CE31F633CC9E47CBF15F3642050875878FCFBC0BDE712EAEED",
+  "added": [
+    "The track map can be made much larger: up to 900×600 instead of 360×240"
+  ],
+  "fixed": []
 }
