@@ -1,11 +1,13 @@
 {
-  "version": "1.9.4",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.4/SimpleInputs-1.9.4-win64.zip",
-  "sha256": "32112BD36FB869389B2A15118AB58E4DD568BE92E45DFCFC55F87088FD3A2EB4",
+  "version": "1.9.5",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.5/SimpleInputs-1.9.5-win64.zip",
+  "sha256": "0055169B1021FCCDE64E2D212998BC676671BD604FDD6030BFF78AF583687B2E",
   "added": [
-    "The map can be turned any way you like"
+    "New Bar style in RPM Panel: just the rev bar with the over-rev zone and the number",
+    "Inputs Telemetry can show a rev bar across the top",
+    "In LMU the shift lights flash at each gear's own shift point; it is worked out from your driving and needs a couple of laps at full throttle"
   ],
   "fixed": [
-    "The track map size is now one slider: the map grows keeping its shape and no longer slides to the right"
+    "In Inputs Telemetry with only the graph, the right corner now looks like the left one"
   ]
 }
