@@ -1,13 +1,11 @@
 {
-  "version": "1.9.5",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.5/SimpleInputs-1.9.5-win64.zip",
-  "sha256": "0055169B1021FCCDE64E2D212998BC676671BD604FDD6030BFF78AF583687B2E",
+  "version": "1.9.6",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.6/SimpleInputs-1.9.6-win64.zip",
+  "sha256": "383A811D69118556BC2B1A6AC3D2BA3CFDD871F0E170DAC0FA259526D2074780",
   "added": [
-    "New Bar style in RPM Panel: just the rev bar with the over-rev zone and the number",
-    "Inputs Telemetry can show a rev bar across the top",
-    "In LMU the shift lights flash at each gear's own shift point; it is worked out from your driving and needs a couple of laps at full throttle"
+    "The blue flag shows how far back the faster car is",
+    "In LMU the yellow flag shows which side of the track the car stopped on: only the arrow on that side stays",
+    "Both can be switched on and off in the Flags settings"
   ],
-  "fixed": [
-    "In Inputs Telemetry with only the graph, the right corner now looks like the left one"
-  ]
+  "fixed": []
 }
