@@ -1,7 +1,7 @@
 {
-  "version": "1.10.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.10.0/SimpleInputs-1.10.0-win64.zip",
-  "sha256": "CD0542F2E26A667F7B87F5215ED1C4B3EC8B07DDE31B510034CCCEDBCD9A6F43",
+  "version": "2.0.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v2.0.0/SimpleInputs-2.0.0-win64.zip",
+  "sha256": "E9477923DC2E0658B38700E7F9DD1EE1E4DFED380E38AFB419C3161E4E9BBE42",
   "added": [
     "Best laps: fast laps on your circuit in your car to compare with, each marked as a qualifying or race lap",
     "The session's theoretical best lap",
