@@ -1,0 +1,20 @@
+{
+ "laps": [
+  {
+   "file": "Circuit de la Sarthe - Lexus RCF LMGT3 - qualifying - 236.747.silap",
+   "track": "Circuit de la Sarthe",
+   "car": "Lexus RCF LMGT3",
+   "kind": "qualifying",
+   "seconds": 236.747314453125,
+   "sha256": "64D9ED1538E7AC9C373424028E6153BF9BD95B5B3B04E6E634E427A273D7F80B"
+  },
+  {
+   "file": "Circuit de la Sarthe - McLaren 720S LMGT3 Evo - qualifying - 235.896.silap",
+   "track": "Circuit de la Sarthe",
+   "car": "McLaren 720S LMGT3 Evo",
+   "kind": "qualifying",
+   "seconds": 235.8956298828125,
+   "sha256": "7137BEBED8B21D75EC7F07F86976C9C1ED63CC398EFA23129529FA839712226A"
+  }
+ ]
+}

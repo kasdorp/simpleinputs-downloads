@@ -1,11 +1,14 @@
 {
-  "version": "1.9.6",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.9.6/SimpleInputs-1.9.6-win64.zip",
-  "sha256": "383A811D69118556BC2B1A6AC3D2BA3CFDD871F0E170DAC0FA259526D2074780",
+  "version": "1.10.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v1.10.0/SimpleInputs-1.10.0-win64.zip",
+  "sha256": "CD0542F2E26A667F7B87F5215ED1C4B3EC8B07DDE31B510034CCCEDBCD9A6F43",
   "added": [
-    "The blue flag shows how far back the faster car is",
-    "In LMU the yellow flag shows which side of the track the car stopped on: only the arrow on that side stays",
-    "Both can be switched on and off in the Flags settings"
+    "Best laps: fast laps on your circuit in your car to compare with, each marked as a qualifying or race lap",
+    "The session's theoretical best lap",
+    "In the lap analysis: traction control, speed by the wheel and pedals, track condition, temperatures and wind",
+    "A new look for the lap page and the Setups page, with car makers' logos"
   ],
-  "fixed": []
+  "fixed": [
+    "The line on the charts no longer falls behind the mouse"
+  ]
 }
