@@ -1,14 +1,12 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v2.0.0/SimpleInputs-2.0.0-win64.zip",
-  "sha256": "E9477923DC2E0658B38700E7F9DD1EE1E4DFED380E38AFB419C3161E4E9BBE42",
+  "version": "3.0.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v3.0.0/SimpleInputs-3.0.0-win64.zip",
+  "sha256": "E5BC1AFFDE7618AE7119DD5CF20999A83297DB012CFCBE4FBD3AFEE1992F88AE",
   "added": [
-    "Best laps: fast laps on your circuit in your car to compare with, each marked as a qualifying or race lap",
-    "The session's theoretical best lap",
-    "In the lap analysis: traction control, speed by the wheel and pedals, track condition, temperatures and wind",
-    "A new look for the lap page and the Setups page, with car makers' logos"
+    "A Home page: the game's latest update with its patch notes in the app, your last session with the car in its own livery, RaceControl's daily races",
+    "Your stats on the Home page: time at the wheel, laps, kilometres, cars, circuits and personal bests, for LMU and iRacing apart",
+    "Overtakes: a card when a car passes you or you pass one, with their car in its own livery and your place after the pass",
+    "Six Overtakes styles, and passes for position only, so lapping backmarkers makes no cards"
   ],
-  "fixed": [
-    "The line on the charts no longer falls behind the mouse"
-  ]
+  "fixed": []
 }
