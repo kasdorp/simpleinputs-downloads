@@ -1,16 +1,10 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v3.1.0/SimpleInputs-3.1.0-win64.zip",
-  "sha256": "C0139CF82A6A3EADE32A0B7B9AB2C01BCEB30BE1B352C24D503AD4F9ECA6B685",
+  "version": "3.2.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v3.2.0/SimpleInputs-3.2.0-win64.zip",
+  "sha256": "C0C3F2919F717DDE0EDC134AFE416C2A28A8A2E2056C6F1C3A3EFDF21433D6DE",
   "added": [
-    "Setup review (beta) on the lap page: tyres by zone, balance by kind of corner and advice for each stint, with what you changed in the garage",
-    "Save a session for review: its laps in one zip on the desktop, to send when the advice was wrong",
-    "Damage: a new default style, Shell, with the game's own repair time under a stop sign",
-    "Inputs: a Cut throttle mode, a comb of how hard traction control cut the power; Lock Up: a fade time for the dots",
-    "Lap analysis: sectors on the session cards, the speed carried through each corner against the compared lap, and each car's lap clock as the lap plays"
+    "A third person view in lap analysis: the camera follows behind your car, with the compared lap's car where it was at the same moment",
+    "MoTeC i2 logs (.ld) open as the compared lap: the fastest lap is laid over yours on the charts and the map"
   ],
-  "fixed": [
-    "Laps open many times faster: a session of a dozen laps no longer freezes the window",
-    "Ride height is recorded in LMU"
-  ]
+  "fixed": []
 }
