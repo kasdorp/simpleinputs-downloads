@@ -1,12 +1,16 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v3.0.0/SimpleInputs-3.0.0-win64.zip",
-  "sha256": "E5BC1AFFDE7618AE7119DD5CF20999A83297DB012CFCBE4FBD3AFEE1992F88AE",
+  "version": "3.1.0",
+  "url": "https://github.com/kasdorp/simpleinputs-downloads/releases/download/v3.1.0/SimpleInputs-3.1.0-win64.zip",
+  "sha256": "C0139CF82A6A3EADE32A0B7B9AB2C01BCEB30BE1B352C24D503AD4F9ECA6B685",
   "added": [
-    "A Home page: the game's latest update with its patch notes in the app, your last session with the car in its own livery, RaceControl's daily races",
-    "Your stats on the Home page: time at the wheel, laps, kilometres, cars, circuits and personal bests, for LMU and iRacing apart",
-    "Overtakes: a card when a car passes you or you pass one, with their car in its own livery and your place after the pass",
-    "Six Overtakes styles, and passes for position only, so lapping backmarkers makes no cards"
+    "Setup review (beta) on the lap page: tyres by zone, balance by kind of corner and advice for each stint, with what you changed in the garage",
+    "Save a session for review: its laps in one zip on the desktop, to send when the advice was wrong",
+    "Damage: a new default style, Shell, with the game's own repair time under a stop sign",
+    "Inputs: a Cut throttle mode, a comb of how hard traction control cut the power; Lock Up: a fade time for the dots",
+    "Lap analysis: sectors on the session cards, the speed carried through each corner against the compared lap, and each car's lap clock as the lap plays"
   ],
-  "fixed": []
+  "fixed": [
+    "Laps open many times faster: a session of a dozen laps no longer freezes the window",
+    "Ride height is recorded in LMU"
+  ]
 }
